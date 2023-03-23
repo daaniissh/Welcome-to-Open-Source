@@ -214,13 +214,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Amrithshagar</b></sub>
                 </a>
             </td>   
-		<td align="center">
-			<a href="https://daaniissh.github.io/danish/"
-			<img src="https://avatars.githubusercontent.com/u/102005928?v=4"/>		
-			<br/>
-			<sub>Muhammed Danish</sub>					
-			</a>
-`		</td>	
+	       <td align="center">
+                <a href="https://daaniissh.github.io/danish/">
+                    <img src="https://avatars.githubusercontent.com/u/102005928?v=4" width="100px;" alt="danish"/>
+                    <br />
+                    <sub><b>Danish</b></sub>
+                </a>
+            </td>   	
             <td align="center">
                 <a href="https://github.com/Shubhh4">
                     <img src="https://avatars.githubusercontent.com/u/95904081?v=4" width="100px;" alt="Shubham Pathak"/>
